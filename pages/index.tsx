@@ -30,7 +30,7 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 py-20">
           <div className="text-center">
             <h1 className="text-4xl font-bold text-gray-900 mb-4">
-              Hello, I'm José Lopes
+              Hello, I&apos;m José Lopes
             </h1>
             <p className="text-xl text-gray-600 mb-8">
               Software Developer | Tech Enthusiast | Problem Solver
@@ -68,12 +68,7 @@ export default function HomePage() {
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
             About Me
           </h2>
-          <p className="text-gray-600 leading-relaxed">
-            I'm a passionate software developer with experience in building
-            modern web applications. I love working with technologies like
-            React, Next.js, and Node.js to create elegant solutions to complex
-            problems.
-          </p>
+          <p className="text-gray-600 leading-relaxed"></p>
         </div>
       </section>
 
@@ -112,7 +107,7 @@ export default function HomePage() {
             Get in Touch
           </h2>
           <p className="text-gray-600 mb-8">
-            I'm always open to discussing new projects and opportunities.
+            I&apos;m always open to discussing new projects and opportunities.
           </p>
           <a
             href="mailto:your@email.com"
